@@ -1,10 +1,12 @@
 ipython
 ipywidgets
 jupyterlab
+lime
 matplotlib
 numpy
 pandas
 scikit-learn
 scipy
+sympy
 seaborn
 statsmodels
