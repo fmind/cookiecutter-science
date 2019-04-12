@@ -1,6 +1,5 @@
-bokeh
 ipython
-ipywidget
+ipywidgets
 jupyterlab
 matplotlib
 numpy
