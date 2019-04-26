@@ -1,12 +1,13 @@
+ipyparallel
 ipython
 ipywidgets
 jupyterlab
-lime
 matplotlib
 numpy
 pandas
+papermill
 scikit-learn
 scipy
-sympy
 seaborn
 statsmodels
+sympy
