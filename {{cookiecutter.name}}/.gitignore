@@ -1,11 +1,3 @@
-*.egg-info/
-*.py[cod]
-.cache/
-.eggs/
 .ipynb_checkpoints/
-.mypy_cache/
-.pytest_cache/
 __pycache__/
-build/
-dist/
 venv/

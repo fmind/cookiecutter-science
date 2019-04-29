@@ -1,4 +1,4 @@
-ipyparallel
+featuretools
 ipython
 ipywidgets
 jupyterlab
@@ -6,8 +6,10 @@ matplotlib
 numpy
 pandas
 papermill
+pyparallel
 scikit-learn
 scipy
 seaborn
 statsmodels
 sympy
+xgboost
