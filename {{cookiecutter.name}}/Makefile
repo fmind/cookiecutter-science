@@ -2,5 +2,5 @@ venv:
 	python -m venv venv --clear
 	venv/bin/pip install -r requirements.txt
 
-lab: venv
+work: venv
 	venv/bin/jupyter lab
