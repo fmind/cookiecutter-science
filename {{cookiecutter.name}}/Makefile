@@ -1,5 +1,5 @@
 venv:
-	python{{cookiecutter.python}} -m venv venv --clear
+	python3 -m venv venv --clear
 	venv/bin/pip install -r requirements.txt
 
 work: venv
