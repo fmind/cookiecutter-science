@@ -4,7 +4,7 @@ from pathlib import Path
 
 @task
 def venv(c, force=False):
-    """Create a virtual environment for Python."""
+    """Create a virtual environment."""
     if Path("venv").exists() and not force:
         return None
     c.run("python3 -m venv venv --clear")
