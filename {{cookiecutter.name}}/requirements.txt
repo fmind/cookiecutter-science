@@ -1,5 +1,6 @@
 eli5
 featuretools
+ipyparallel
 ipython
 ipywidgets
 jupyterlab
@@ -9,7 +10,6 @@ pandas
 papermill
 plotly_express
 pyjanitor
-pyparallel
 scikit-learn
 scipy
 seaborn
