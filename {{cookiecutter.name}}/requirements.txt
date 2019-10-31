@@ -1,18 +1,30 @@
-eli5
+# init
+wheel
+# auto
+auto-sklearn
 featuretools
-ipyparallel
-ipython
-ipywidgets
+tpot
+# editors
 jupyterlab
-matplotlib
+# statistics
+scipy
+sympy
+statsmodels
+# evaluation
+eli5
+shap
+yellowbrick
+# manipulation
 numpy
 pandas
-papermill
-plotly_express
 pyjanitor
+# orchestration
+jupytext
+papermill
+# visualization
+matplotlib
+plotly_express
+# machine learning
 scikit-learn
-scipy
-seaborn
-statsmodels
-voila
+tensorflow
 xgboost
