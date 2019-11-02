@@ -2,10 +2,10 @@
 wheel
 # auto
 auto-sklearn
-featuretools
 tpot
 # editors
 jupyterlab
+# features
 # statistics
 scipy
 sympy
