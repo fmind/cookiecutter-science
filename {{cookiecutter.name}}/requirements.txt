@@ -6,6 +6,7 @@ tpot
 # editors
 jupyterlab
 # features
+featuretools
 # statistics
 scipy
 sympy
