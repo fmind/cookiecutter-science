@@ -7,6 +7,7 @@ tpot
 jupyterlab
 # features
 featuretools
+tsfresh
 # statistics
 scipy
 sympy
