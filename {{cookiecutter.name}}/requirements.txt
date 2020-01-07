@@ -9,6 +9,7 @@ jupyterlab
 featuretools
 tsfresh
 # statistics
+patsy
 scipy
 sympy
 statsmodels
