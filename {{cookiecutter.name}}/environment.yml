@@ -1,0 +1,24 @@
+name: {{cookiecutter.name}}
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - eli5
+  - featuretools
+  - ipywidgets
+  - jupyterlab
+  - jupytext
+  - matplotlib
+  - numpy
+  - pandas
+  - papermill
+  - patsy
+  - plotly_express
+  - scikit-learn
+  - scipy
+  - shap
+  - statsmodels
+  - sympy
+  - tensorflow
+  - tpot
+  - xgboost
