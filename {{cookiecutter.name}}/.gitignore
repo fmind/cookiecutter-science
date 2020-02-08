@@ -1,1 +1,9 @@
+caches/
+outputs/
+artifacts/
+
+private.toml
+production.toml
+
 .ipynb_checkpoints/
+.virtual_documents/

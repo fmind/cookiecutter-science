@@ -1,0 +1,35 @@
+name: {{cookiecutter-name}}
+channels:
+  - defaults
+  - conda-forge
+  - DistrictDataLabs
+dependencies:
+  # conf
+  - toml
+  # edit
+  - ipython
+  - jupytext
+  - papermill
+  - jupyterlab
+  - ipywidgets
+  - ipyparallel
+  # learn
+  # - tpot
+  # - xgboost
+  # - tensorflow
+  - scikit-learn
+  # create
+  # - patsy
+  # - sympy
+  # - boruta_py
+  # - statsmodels
+  # - featuretools
+  # analyze
+  # - dask
+  - numpy
+  - pandas
+  # visualize
+  - seaborn
+  - matplotlib
+  - yellowbrick
+  - pandas-profiling
