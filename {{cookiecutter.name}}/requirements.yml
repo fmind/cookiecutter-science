@@ -15,6 +15,7 @@ dependencies:
   - ipyparallel
   # learn
   # - tpot
+  # - hdbscan
   # - xgboost
   # - tensorflow
   - scikit-learn
