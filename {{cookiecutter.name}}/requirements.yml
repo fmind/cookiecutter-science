@@ -25,6 +25,8 @@ dependencies:
   # - boruta_py
   # - statsmodels
   # - featuretools
+  # explain
+  - shap
   # analyze
   # - dask
   - numpy
