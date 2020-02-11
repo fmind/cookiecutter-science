@@ -6,13 +6,14 @@ channels:
 dependencies:
   # conf
   - toml
+  # flow
+  - mlflow
+  - papermill
   # edit
   - ipython
   - jupytext
-  - papermill
   - jupyterlab
   - ipywidgets
-  - ipyparallel
   # learn
   # - tpot
   # - hdbscan
@@ -26,13 +27,13 @@ dependencies:
   # - statsmodels
   # - featuretools
   # explain
-  - shap
+  # - shap
   # analyze
   # - dask
   - numpy
   - pandas
+  - pandas-profiling
   # visualize
   - seaborn
   - matplotlib
   - yellowbrick
-  - pandas-profiling

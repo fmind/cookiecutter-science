@@ -1,9 +1,8 @@
-caches/
-outputs/
-artifacts/
+/mlruns/
 
-private.toml
-production.toml
+/configs/private.toml
+/configs/production.toml
+/configs/environment.yml
 
 .ipynb_checkpoints/
 .virtual_documents/
