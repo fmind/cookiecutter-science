@@ -4,5 +4,7 @@
 /configs/production.toml
 /configs/environment.yml
 
+*.egg-info/
+__pycache__/
 .ipynb_checkpoints/
 .virtual_documents/
