@@ -3,9 +3,9 @@
 import setuptools
 
 META = dict(
-   name="{{cookiecutter.name}}",
+   name="src",
    version="0.1.0",
-   packages=["{{cookiecutter.name}}"],
+   packages=["src"],
    install_requires=[],
 )
 
