@@ -38,5 +38,6 @@ dependencies:
   - matplotlib
   - yellowbrick
   - pip:
+    - pyod
     - hiplot>=0.1
     - "--editable ."
